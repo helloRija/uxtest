@@ -11,9 +11,9 @@
 
 body {
   background: #ffffff;
-  color: #898989;
+  color: #1e1a1a;
   font-family: 'Poppins', helvetica;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 20px;
   letter-spacing: 0.02em;
@@ -36,6 +36,11 @@ h2 {
   font-weight: 600;
 }
 
+h3 {
+  color: #ebe6e6;
+  font-size: 18px;
+  font-weight: 600;
+}
 h4 {
   color: #292929;
   font-size: 14px;
@@ -70,7 +75,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 12px;
-  color: #999999;
+  color: #1e1a1a;
   letter-spacing: 0.1em;
   font-weight: 500;
   line-height: 14px;
@@ -85,8 +90,8 @@ nav ul li a {
 p {
   margin: 25px 0;
   padding: 0;
-  font-size: 15px;
-  color: #999999;
+  font-size: 16px;
+  color: #1e1a1a;
   line-height: 28px;
 }
 
@@ -208,7 +213,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+  color: #1e1a1a;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -241,7 +246,7 @@ nav ul li a {
 
 #header {
   background: url("../images/home-bg.jpg") repeat scroll center center / cover;
-  height: 100vh;
+  height: relative;
   width: 100%;
 }
 
@@ -408,8 +413,8 @@ nav ul li a {
 #portfolio .portfolio-list .nav li {
   margin: 0 40px 0 0;
   float: left;
-  font-size: 14px;
-  color: #999999;
+  font-size: 17px;
+  color: ##1e1a1a;
   line-height: 16px;
   cursor: pointer;
   font-family: 'Poppins', helvetica;
